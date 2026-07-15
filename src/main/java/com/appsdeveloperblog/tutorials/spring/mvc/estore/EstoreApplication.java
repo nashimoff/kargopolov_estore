@@ -12,4 +12,4 @@ public class EstoreApplication {
 	}
 
 }
-//nurlan
+//nurlan ashimov
