@@ -12,4 +12,4 @@ public class EstoreApplication {
 	}
 
 }
-//nurlan ashimov murat emne
+//nurlan ashimov murat emne jagat
